@@ -1,0 +1,21 @@
+# Arduino / ESP32 build artifacts
+*.o
+*.elf
+*.bin
+*.hex
+build/
+*.log
+*.tmp
+*.bak
+
+# PlatformIO
+.pio/
+.pioenvs/
+
+# General
+node_modules/
+__pycache__/
+.env
+*.exe
+*.dll
+*.so
